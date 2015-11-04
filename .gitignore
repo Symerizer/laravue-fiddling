@@ -3,6 +3,10 @@
 Homestead.yaml
 Homestead.json
 .env
+.idea/
 .env.*.php
 /bootstrap/compiled.php
 .env.php
+/public/css/*
+/public/js/*
+/bower_components
